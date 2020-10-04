@@ -1,11 +1,5 @@
-# servant-haskell-ru
+### Устаревший репозиторий для перевода на русский язык документациии библиотеки Servant, написанной на языке программирования Haskell.
 
-Техненческие переводы документации из репозитория servant на русский язык.
-
-- Servant руководство(Tutorial) переведёно на 30 %
-
-Оригинал:
-
-- https://github.com/haskell-servant/servant/
-
-- http://haskell-servant.readthedocs.io/en/stable/
+Продолжение перевода на русский язык документации библиотеки [Servant](https://github.com/haskell-servant/servant "Оригинальный репозиторий библиотеки Servant"), находится тут:
+#### GitLab → АЛТрон → Переводы → Документация Servant
+[https://gitlab.com/AL_Tron_/Translations/-/tree/master/github.com/haskell-servant/servant](https://gitlab.com/AL_Tron_/Translations/-/tree/master/github.com/haskell-servant/servant "Перевод документации Servant")
